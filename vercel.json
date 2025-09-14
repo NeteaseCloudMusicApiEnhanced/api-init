@@ -2,7 +2,7 @@
     "builds": [
         {
             "src": "./index.js",
-            "use": "@vercel/node@5.1.14"
+            "use": "@vercel/node"
         }
     ],
     "rewrites": [
