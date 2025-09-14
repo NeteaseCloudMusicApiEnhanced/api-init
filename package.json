@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["neteasecloudmusicapi","neteasecloudmusicapienhanced","网易云音乐 Api", "网易云音乐 api enhanced"],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.13.1",
