@@ -6,11 +6,16 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["neteasecloudmusicapi","neteasecloudmusicapienhanced","网易云音乐 Api", "网易云音乐 api enhanced"],
+  "keywords": [
+    "neteasecloudmusicapi",
+    "neteasecloudmusicapienhanced",
+    "网易云音乐 Api",
+    "网易云音乐 api enhanced"
+  ],
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.13.1",
   "dependencies": {
-    "@neteaseapireborn/api": "^4.29.2"
+    "@neteaseapireborn/api": "^4.29.5"
   }
 }
