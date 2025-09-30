@@ -16,6 +16,7 @@
   "license": "ISC",
   "packageManager": "pnpm@10.13.1",
   "dependencies": {
-    "@neteaseapireborn/api": "^4.29.6"
+    "@neteaseapireborn/api": "^4.29.6",
+    "express": "^4.18.2"
   }
 }
