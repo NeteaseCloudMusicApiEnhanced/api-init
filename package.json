@@ -1,6 +1,6 @@
 {
   "name": "api-init",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "网易云音乐 Api Enhanced Node.js启动器",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,6 @@
   "license": "ISC",
   "packageManager": "pnpm@10.13.1",
   "dependencies": {
-    "@neteaseapireborn/api": "^4.29.5"
+    "@neteaseapireborn/api": "^4.29.6"
   }
 }
