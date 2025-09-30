@@ -1,7 +1,7 @@
 {
   "name": "api-init",
   "build": {
-    "command": "node -v",
+    "command": "npm install",
     "output": "dist"
   },
   "routes": [
@@ -9,5 +9,14 @@
       "pattern": ".*",
       "script": "functions/[[path]].js"
     }
-  ]
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "functions": {
+    "api": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
 }
