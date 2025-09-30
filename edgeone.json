@@ -1,0 +1,13 @@
+{
+  "name": "api-init",
+  "build": {
+    "command": "node -v",
+    "output": "dist"
+  },
+  "routes": [
+    {
+      "pattern": ".*",
+      "script": "functions/[[path]].js"
+    }
+  ]
+}
